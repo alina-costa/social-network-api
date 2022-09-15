@@ -9,3 +9,6 @@ This application includes the use of Express.js and Mongoose packages.
 ## Future Development
 - Sync Mongoose models to the MongoDB database
 - Include API GET, POST, PUT, and DELETE routes for users and thoughts
+
+### Github Repo 
+https://github.com/alina-costa/social-network-api 
